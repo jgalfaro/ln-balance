@@ -1,9 +1,10 @@
-# ln-balance
+# Hiding the Balance of Lightning Network Channels
 
+## Disclaimer
+
+The code is still under a private repository.
 
 ## Reference
-
-If using this code for research purposes, please cite:
 
 [1] J. Herrera-Joancomarti, G. Navarro-Arribas, A. Ranchal-Pedrosa, C. Perez-Sola, J. Garcia-Alfaro. On the Difficulty of Hiding the Balance of Lightning Network Channels. 14th ACM ASIA Conference on Computer and Communications Security (AsiaCCS 2019), Auckland, New Zealand, July 2019.
 
